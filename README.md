@@ -55,4 +55,3 @@ npm run build --prefix frontend
 npm run lint --prefix frontend
 ```
 
-## License
