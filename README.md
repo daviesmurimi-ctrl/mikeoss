@@ -56,5 +56,3 @@ npm run lint --prefix frontend
 ```
 
 ## License
-
-AGPL-3.0-only. See `LICENSE`.
